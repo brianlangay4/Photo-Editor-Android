@@ -2,9 +2,9 @@
 
 The  Android app demonstrates sophisticated photo editing capabilities by combining intuitive UI elements with powerful backend image processing. Users can select an image from their device, apply various edits including brightness and intensity adjustments, lipstick application, and red-eye removal, and then view the edited image directly within the app.
 
-### Follow the Article on How we archive this image manipulation techiniques information available in my page Kaggle
+### Follow the Article on How we archive this image manipulation techiniques with OpenCV in Python available in my page Kaggle
 
-<a href="[https://www.kaggle.com/brianlangay](https://www.kaggle.com/datasets/brianlangay/red-eye-removal)" target="_blank">🔗 click to view article 👉</a>
+<a href="https://www.kaggle.com/datasets/brianlangay/red-eye-removal" target="_blank">🔗 click to view article 👉</a>
 
 ### Preview 
 ![photoEditor 0 0 1](https://github.com/brianlangay4/Photo-Editor-Android/assets/67788456/211ee2e4-4422-47cb-8192-3fa2b9d40f54)
